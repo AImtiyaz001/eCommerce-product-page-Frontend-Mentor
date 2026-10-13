@@ -12,8 +12,8 @@
     - Showcasing product picture in bigger size.
 
 4. **Cart features**
-    - Adding product in the cart.
-    - Pop up above cart on adding products.
+    - Adding products in the cart.
+    - Pop up above the cart on adding products.
     - Number of products in the cart.
     - Total price of the product.
     - Delete products from the cart.
